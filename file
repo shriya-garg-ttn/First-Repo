@@ -1,4 +1,8 @@
 This is first line
 temporary line
 fourth line
+<<<<<<< HEAD
 new line
+=======
+new line added
+>>>>>>> c48ffe0faccb1665587d855ccb25c998e5bd7884
