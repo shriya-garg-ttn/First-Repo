@@ -1,3 +1,6 @@
 This is first line
 temporary line
-
+<<<<<<< HEAD
+=======
+fourth line
+>>>>>>> be6a61039418e86b530626f58f335f66b40c28d5
